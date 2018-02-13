@@ -1,6 +1,8 @@
 ### Info
 Do SpeechRecognition using DeepSpeech2,  backend using Keras.
 
+https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
+
 #### Dataset
 TRAIN DATA: total 64722. spilit to 8:1:1
 
